@@ -1,0 +1,3 @@
+[submodule "entries/makefile-parser-python"]
+	path = entries/makefile-parser-python
+	url = https://github.com/Thanatisia/makefile-parser-python
